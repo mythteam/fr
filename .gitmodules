@@ -1,0 +1,3 @@
+[submodule "src/components/vux"]
+	path = src/components/vux
+	url = git@github.com:lichunqiang/vux.git
